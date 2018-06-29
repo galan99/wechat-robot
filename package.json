@@ -1,0 +1,22 @@
+{
+  "name": "wx-robot",
+  "version": "1.0.0",
+  "description": "A WeChat automatic response robot.",
+  "main": "index.js",
+  "dependencies": {
+    "casperjs": "^1.1.4",
+    "opn": "^5.1.0",
+    "phantomjs": "^2.1.7+deprecated"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "wechat",
+    "robot",
+    "js"
+  ],
+  "author": "doterlin",
+  "license": "MIT"
+}
